@@ -9,6 +9,11 @@ OpenLANE/Sky130 Workshop
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
 ![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%201/images/1_1.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%201/images/1_2.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%201/images/1_3.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%201/images/1_4.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%201/images/1_5.JPG)
+
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
