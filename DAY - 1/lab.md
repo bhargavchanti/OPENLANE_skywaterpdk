@@ -9,6 +9,7 @@ OpenLANE/Sky130 Workshop
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
+![image](D:\Bhargav\workshops\openlane_sky130_workshop\pics\day-1\1_1)
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
