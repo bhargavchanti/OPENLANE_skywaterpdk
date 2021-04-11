@@ -8,6 +8,12 @@ OpenLANE/Sky130 Workshop
 3. [Another paragraph](#paragraph2)
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_1.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_2.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_3.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_4.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_5.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_6.JPG)
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
