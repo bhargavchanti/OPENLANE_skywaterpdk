@@ -17,6 +17,14 @@ Some introduction text, formatted in heading 2 style
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_f_1.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_f_2.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_f_3.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_f_4.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_f_5.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_f_6.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_f_7.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_f_8.JPG)
 
 ### Sub paragraph <a name="subparagraph1"></a>
 This is a sub paragraph, formatted in heading 3 style
