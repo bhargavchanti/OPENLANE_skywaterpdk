@@ -6,7 +6,6 @@ OpenLANE/Sky130 Workshop
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
-![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_1.JPG)
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
 
