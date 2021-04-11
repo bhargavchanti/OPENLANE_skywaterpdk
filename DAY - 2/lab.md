@@ -28,6 +28,8 @@ The first paragraph text
 
 ### Sub paragraph <a name="subparagraph1"></a>
 This is a sub paragraph, formatted in heading 3 style
-
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_p_1.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_p_2.JPG)
+![image](https://github.com/bhargavchanti/OPENLANE_skywaterpdk/blob/main/DAY%20-%202/images/2_p_3.JPG)
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
